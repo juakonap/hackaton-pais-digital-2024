@@ -9,8 +9,8 @@ Este repositorio está organizado por cada una de las sesiones que se llevarán 
 
 En el siguiente listado, se puede tener acceso a la grabación de la sesión respectiva:
 
-* Sesión 1 **Obligatoria**: martes 06 de agosto de 19:00 a 20:30 horas de Chile - _Creatividad y resolución de problemas_ [Disponible próximamente]()
-* Sesión 2: Jueves 08 de agosto de 19:00 a 20:30 horas de Chile - _Tecnología al servicio de la seguridad pública: los desafíos de Las Condes_ [Disponible próximamente]()
+* Sesión 1 **Obligatoria**: martes 06 de agosto de 19:00 a 20:30 horas de Chile - _Creatividad y resolución de problemas_ [Link de acceso](https://www.youtube.com/watch?v=z8t_yIM1J6c)
+* Sesión 2: Jueves 08 de agosto de 19:00 a 20:30 horas de Chile - _Tecnología al servicio de la seguridad pública: los desafíos de Las Condes_ [Link de acceso](https://www.youtube.com/watch?v=HteXojsr4FE)
 * Sesión 3: Martes 13 de agosto de 19:00 a 20:30 horas de Chile - _Bases de Computer Vision_ [Disponible próximamente]()
 * Sesión 4: Martes 20 de agosto de 19:00 a 20:30 horas de Chile - _Plataforma Huawei de Computer Vision_ [Disponible próximamente]()
 * Sesión 5: Miércoles 21 de agosto de 19:00 a 20:30 horas de Chile - _Assembly de Herramientas para CV_ [Disponible próximamente]()

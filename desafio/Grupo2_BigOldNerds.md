@@ -6,6 +6,9 @@
 - Juan Pablo Pérez Caballero
 - Carlos Navarro Clavería
 
+## Mentor: 
+- Sebastián Albizú Tobar
+
 # Bases de Datos de Dominio Publico.
 
 - [COCO (Common Objects in Context)](https://cocodataset.org/): Un conjunto de datos grande y diverso para la detección de objetos, segmentación y etiquetado de escenas. Es ampliamente utilizado en la comunidad de visión por computadora.

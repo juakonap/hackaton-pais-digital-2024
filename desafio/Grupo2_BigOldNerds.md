@@ -4,7 +4,7 @@
 
 2.- [Real-world Anomaly Detection in Surveillance Videos](https://www.crcv.ucf.edu/projects/real-world/)
 
-3.- [CNN Accident Detection ~91% Accuracy](https://www.kaggle.com/code/fahaddalwai/cnn-accident-detection-91-accuracy)
+3.- [CNN Accident Detection](https://www.kaggle.com/code/fahaddalwai/cnn-accident-detection-91-accuracy)
 
 4.- [GTA V-based Datasets](https://paperswithcode.com/dataset/gta5)
 

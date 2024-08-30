@@ -3,8 +3,8 @@
 ## Integrantes:
 - María José Briceño Nikulin
 - Luis Castillo Faune
-- Juan Pablo Pérez Caballero
 - Carlos Navarro Clavería
+- Juan Pablo Pérez Caballero
 
 ## Mentor: 
 - Sebastián Albizú Tobar

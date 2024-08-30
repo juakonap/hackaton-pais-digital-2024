@@ -1,7 +1,5 @@
-# Bases de Datos
+# Bases de Datos de Dominio Publico.
 
-## DCSASS Dataset
+[DCSASS Dataset en Kaggle](https://www.kaggle.com/datasets/mateohervas/dcsass-dataset)
 
-### Contexto
-
-Este conjunto de datos se construyó basado en el conjunto de datos desarrollado por Sultani, W., Chen, C., & Shah, M. (2018). Real-world anomaly detection in surveillance videos. Center for Research in Computer Vision (CRCV), 1-10.
+# Arquitecturas de Código Abierto

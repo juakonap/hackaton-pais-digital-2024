@@ -20,14 +20,13 @@
 
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Un conjunto de datos clásico utilizado para entrenar sistemas de reconocimiento de imágenes en la tarea de clasificación de dígitos manuscritos.
 
-- [DCSASS Dataset en Kaggle](https://www.kaggle.com/datasets/mateohervas/dcsass-dataset)
+- [DCSASS Dataset en Kaggle](https://www.kaggle.com/datasets/mateohervas/dcsass-dataset): Un conjunto de datos que contiene imágenes y anotaciones para la clasificación y detección de objetos.
 
-- [Real-world Anomaly Detection in Surveillance Videos](https://www.crcv.ucf.edu/projects/real-world/)
+- [Real-world Anomaly Detection in Surveillance Videos](https://www.crcv.ucf.edu/projects/real-world/): Conjunto de datos para la detección de anomalías en videos de vigilancia del mundo real.
 
-- [GTA V-based Datasets](https://paperswithcode.com/dataset/gta5)
+- [GTA V-based Datasets](https://paperswithcode.com/dataset/gta5): Conjunto de datos basado en el videojuego GTA V, utilizado para investigaciones en visión por computadora como segmentación de escenas.
 
-- [Weapon detection](https://universe.roboflow.com/weapon-detection-qktol/weapon-detection-ipl7p)
-
+- [Weapon detection](https://universe.roboflow.com/weapon-detection-qktol/weapon-detection-ipl7p): Conjunto de datos para la detección de armas en imágenes, útil para tareas de seguridad y vigilancia.
 
 
 # Arquitecturas de Código Abierto

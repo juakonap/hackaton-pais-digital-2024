@@ -6,7 +6,7 @@
 - [Carlos Navarro Clavería](https://carlosnavarroc.github.io/)
 - [Juan Pablo Pérez Caballero](https://www.u-cursos.cl/usuario/bc51dd8f4d8f7f2f3d74ea38b8253eca/mi_blog/)
 
-## Mentor: 
+## Consultor senior de EY : 
 - Sebastián Albizú Tobar
 
 # Bases de Datos de Dominio Publico.

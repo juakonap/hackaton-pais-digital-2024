@@ -4,7 +4,7 @@
 - [María José Briceño Nikulin](https://www.linkedin.com/in/mariajosebricenonikulin/)
 - [Luis Castillo Faune](https://www.linkedin.com/in/luiscastillof/)
 - [Carlos Navarro Clavería](https://carlosnavarroc.github.io/)
-- [Juan Pablo Pérez Caballero](https://www.u-cursos.cl/usuario/bc51dd8f4d8f7f2f3d74ea38b8253eca/mi_blog/))
+- [Juan Pablo Pérez Caballero](https://www.u-cursos.cl/usuario/bc51dd8f4d8f7f2f3d74ea38b8253eca/mi_blog/)
 
 ## Mentor: 
 - Sebastián Albizú Tobar

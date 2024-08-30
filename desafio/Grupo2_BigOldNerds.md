@@ -4,12 +4,30 @@
 
 2.- [Real-world Anomaly Detection in Surveillance Videos](https://www.crcv.ucf.edu/projects/real-world/)
 
-3.- [CNN Accident Detection](https://www.kaggle.com/code/fahaddalwai/cnn-accident-detection-91-accuracy)
+3.- [GTA V-based Datasets](https://paperswithcode.com/dataset/gta5)
 
-4.- [GTA V-based Datasets](https://paperswithcode.com/dataset/gta5)
-
-5.- [Weapon detection](https://universe.roboflow.com/weapon-detection-qktol/weapon-detection-ipl7p)
+4.- [Weapon detection](https://universe.roboflow.com/weapon-detection-qktol/weapon-detection-ipl7p)
 
 
 
 # Arquitecturas de Código Abierto
+
+- [YOLO (You Only Look Once)](https://pjreddie.com/darknet/yolo/): Arquitectura de detección de objetos en tiempo real. Existen varias versiones como YOLOv3, YOLOv4, YOLOv5 (desarrollada por Ultralytics), y YOLOv7. Implementaciones disponibles en frameworks como PyTorch y TensorFlow.
+  
+- [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5): Implementación de YOLO que ha ganado popularidad por su facilidad de uso y alta precisión. Desarrollado por Ultralytics, incluye herramientas para entrenamiento, detección y exportación a diferentes formatos.
+  
+- [Detectron2](https://github.com/facebookresearch/detectron2): Desarrollado por Facebook AI Research (FAIR). Framework para tareas de visión por computadora como segmentación de imágenes, detección de objetos y keypoint detection. Basado en PyTorch.
+  
+- [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection): Ofrece una colección de modelos preentrenados para la detección de objetos. Compatible con TensorFlow y fácil de personalizar para diferentes aplicaciones.
+  
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Biblioteca para la detección de posturas humanas en tiempo real. Desarrollado por CMU Perceptual Computing Lab, capaz de detectar puntos clave en el cuerpo, manos y rostro.
+  
+- [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn): Arquitectura avanzada para la detección de objetos. Es una mejora sobre el R-CNN y Fast R-CNN, con un enfoque en la velocidad y precisión. Implementación en PyTorch y TensorFlow.
+  
+- [EfficientDet](https://github.com/google/automl/tree/master/efficientdet): Desarrollado por Google. Modelo para la detección de objetos que optimiza la relación entre precisión y eficiencia. Basado en la familia de modelos EfficientNet.
+  
+- [RetinaNet](https://github.com/fizyr/keras-retinanet): Introduce el concepto de Focal Loss para abordar el problema de detección de objetos pequeños. Ofrece un balance entre precisión y velocidad.
+  
+- [Darknet](https://github.com/pjreddie/darknet): Framework original en C/C++ para implementar YOLO. Compatible con múltiples GPUs y se centra en la eficiencia de la detección en tiempo real.
+  
+- [OpenMMLab (MMDetection)](https://github.com/open-mmlab/mmdetection): Un poderoso marco de referencia de PyTorch para la detección de objetos. Parte de la colección OpenMMLab, que incluye herramientas para segmentación y otras tareas de visión por computadora.

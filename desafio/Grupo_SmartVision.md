@@ -27,14 +27,14 @@ En este proyecto, utilizamos modelos de código abierto de las siguientes fuente
 - [Modelos de Ultralytics](https://docs.ultralytics.com/models/#featured-models)
 - [Modelos de OpenMMLab](https://github.com/open-mmlab)
 - [Modelos de tracking-by-detection](https://github.com/mikel-brostrom/boxmot)
-
+- 
 ## Códigos de Ayuda
 
 Los siguientes recursos son utiles.
 
 - [Notebooks de Roboflow](https://github.com/roboflow/notebooks)
 - [Supervision de Roboflow](https://supervision.roboflow.com/utils/notebook/)
-
+- [SAHI](https://blog.roboflow.com/how-to-use-sahi-to-detect-small-objects/)
 
 ## Librerías 
 
@@ -44,10 +44,15 @@ Estas son las principales librerías que utilizaremos:
 - **Supervision**: Para hacer anotaciones en los videos y lógica.  - [Supervision](https://supervision.roboflow.com/latest/)
 - **torchmetrics**: Para obtener métricas de detección. [Repositorio en GitHub](https://github.com/Lightning-AI/torchmetrics)
 - Matplotlib, torch, pandas, numpy
+- **FastAPI**.
+
 ## Herramienta de Anotación
 
 Para la creación de datasets, utilizamos la siguiente herramienta:
 
 - [CVAT](https://www.cvat.ai/)
 
+## Otros.
 
+**Telegram**
+**WhatsApp**

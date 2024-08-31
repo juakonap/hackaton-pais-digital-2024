@@ -43,7 +43,10 @@
   [https://universe.roboflow.com/aigutech/pids\_intrusion](https://universe.roboflow.com/aigutech/pids\_intrusion)  
   Climbing detection  
   [https://universe.roboflow.com/min-tang-ugcdi/climbing-detection](https://universe.roboflow.com/min-tang-ugcdi/climbing-detection)  
-    
+
+  DenseGait
+  [https://github.com/cosmaadrian/gaitformer/tree/master](https://github.com/cosmaadrian/gaitformer/tree/master)
+
   Computer Vision Project \- Climbing  
   [https://universe.roboflow.com/project-gheje/-jprtu](https://universe.roboflow.com/project-gheje/-jprtu)  
     
@@ -67,6 +70,13 @@ I3D: [https://github.com/deepmind/kinetics-i3d](https://github.com/deepmind/kine
 [https://github.com/feichtenhofer/twostreamfusion](https://github.com/feichtenhofer/twostreamfusion)
 
 [Human Foot Keypoint Dataset (cmu-perceptual-computing-lab.github.io)](https://cmu-perceptual-computing-lab.github.io/foot\_keypoint\_dataset/) :Existing human pose datasets contain limited body part types. The MPII dataset annotates ankles, knees, hips, shoulders, elbows, wrists, necks, torsos, and head tops, while COCO also includes some facial keypoints. For both of these datasets, foot annotations are limited to ankle position only. However, graphics applications such as avatar retargeting or 3D human shape reconstruction require foot keypoints such as big toe and heel. Without foot information, these approaches suffer from problems such as the candy wrapper effect, floor penetration, and foot skate. To address these issues, a small subset of foot instances out of the COCO dataset is labeled using the Clickworker platform. It is split up with 14K annotations from the COCO training set and 545 from the validation set. A total of 6 foot keypoints are labeled. We consider the 3D coordinate of the foot keypoints rather than the surface position. For instance, for the exact toe positions, we label the area between the connection of the nail and skin, and also take depth into consideration by labeling the center of the toe rather than the surface.
+
+**GaitFormer**
+[https://github.com/cosmaadrian/gaitformer/tree/master](https://github.com/cosmaadrian/gaitformer/tree/master)
+
+**MMSkeleton**
+[https://github.com/open-mmlab/mmskeleton](https://github.com/open-mmlab/mmskeleton)
+
 
 YOLO (You Only Look Once): Una de las arquitecturas más populares para detección de objetos en tiempo real. Es rápida y precisa, ideal para sistemas que requieren procesamiento en tiempo real.
 

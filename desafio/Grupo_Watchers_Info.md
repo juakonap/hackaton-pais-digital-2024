@@ -26,6 +26,7 @@ Estas son las principales librerías que utilizaremos:
 - **numpy**: cálculos de distancia, manejo de arrays.  [Repositorio en GitHub](https://github.com/numpy/numpy)
 - **cv2 (OpenCV)**: procesamiento de imágenes y video. [Repositorio en GitHub](https://github.com/opencv/opencv)
 - **scipy**: Herramientas y algoritmos matemáticos. [Repositorio en GitHub](https://github.com/scipy)
+- **human-pose-estimation-opencv**: Estimación de la postura humana en OpenCV utilizando OpenPose. [Repositorio en GitHub](https://github.com/quanhua92/human-pose-estimation-opencv)
 
 ## videos
 

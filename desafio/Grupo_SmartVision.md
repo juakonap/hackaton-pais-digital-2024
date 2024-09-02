@@ -19,6 +19,13 @@ A continuación se presentan algunos de los conjuntos de datos públicos que se 
 - [Urban Night Back](https://universe.roboflow.com/psvtalgpsvt-44y4v/tw_urban_night_back_/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 - [Datasets creados por nosotros](https://usmcl-my.sharepoint.com/:u:/g/personal/martin_camposd_usm_cl/EbVPbmlDUd9Iq0_HJO6b1koByGD21TEZtJw0VGZleMCcOg?e=xoNMPk)
 
+Otros dataset de roboflow:
+
+- https://universe.roboflow.com/master-final-dataset-curation-v1a/cctv-curation-dataset-1-hhibk
+- https://universe.roboflow.com/dataset-uutxr/cctv-naxyo
+- https://universe.roboflow.com/binus-university-y2qnm/cctv-oofg7-fqsjq
+- https://universe.roboflow.com/tomatokiller/cctv-oofg7/model/1
+ -https://universe.roboflow.com/leo-ueno/people-detection-o4rdr
 
 ## Arquitecturas de Código Abierto
 
